@@ -1,0 +1,8 @@
+div#wizard-degrees, div#wizard-courses {
+    margin-top: 5px;
+    margin-left: 25px
+}
+
+div#wizard-degrees div.description, div#wizard-courses div.description {
+    font-style: italic
+}

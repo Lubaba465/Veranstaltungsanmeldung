@@ -1,0 +1,5 @@
+pluginname=Veranstaltungsanmeldung
+pluginclassname=Veranstaltungsanmeldung
+version=1.1.6
+origin=Lubaba
+studipMinVersion=4.4.99
